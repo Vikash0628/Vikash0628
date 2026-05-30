@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<h1 align="center">Hi 👋, I'm Vikash kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt ="coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
